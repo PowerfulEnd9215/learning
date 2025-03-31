@@ -1,6 +1,6 @@
-# Medical Tourism Website
+# Dummy project for Learning -- Medical Tourism Website
 
-This project is a medical tourism website that allows users to securely log in, choose from various medical specialties and super-specialties, create appointments, and process payments for attended appointments. The application is built using Node.js and follows OWASP guidelines for security.
+This dummy project for learning is supposed to be a medical tourism website that allows users to securely log in, choose from various medical specialties and super-specialties, create appointments, and process payments for attended appointments. The application is built using Node.js and follows OWASP guidelines for security.
 
 ## Features
 
